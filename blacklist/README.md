@@ -157,3 +157,4 @@
 |苏州|[Momenta](https://www.momenta.cn/)|2019年4月|996,CEO朋友圈宣扬马云996|[微信截图](img/mbgwb.jpg)
 |武汉|[武汉斗鱼网络科技有限公司](https://www.douyu.com/)|2018年9月|每天至少加班两小时，拖欠大量工资，无加班费|[看准网](https://m.kanzhun.com/pl6708460.html）
 |北京|[蛋壳公寓](https://www.danke.com/)|2018年7月|10106/10107|[看准网](https://www.kanzhun.com/pl7093100.html?ka=review-item-ckqw)
+|上海|[蔚来汽车](https://www.nio.com)|2016年10月| 996 无倒休 |创业初期大量招人造声势，待公司稳定之后大量裁人（As a startup, it recruit massive people at first, then fire some of them for no reason）|未到6个月试用期强行开除(fire employee in probation of 6 month) | [看准网] (https://www.kanzhun.com/gsr5674893.html?ka=com1-review)
